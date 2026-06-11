@@ -178,7 +178,7 @@ public class QueuePalindrome {
 
 El estudiante debe redactar al menos tres conclusiones propias relacionadas con el uso de pilas y colas.
 
-- Conclusión 1: Como conclusion pudimos ver que en los ejercicios que hicimos podemos aplicar los metodos de pilas columans y etc como lo son el peek el pop entre otros los cuales nos van a aayudar ha hacer comparaciones y ordenar datos.
+- Conclusión 1: Como conclusion pudimos ver que en los ejercicios que hicimos podemos aplicar los metodos de pilas  y colas  como lo son el peek el pop entre otros los cuales nos van a aayudar ha hacer comparaciones y ordenar datos.
 - Conclusión 2: Tambien pudimos evidenciar que al usar estos metodos la mayoria de los codigos van a  poder realizarse mediante bucles como lo son el while y el for los cuales los hacen mucho mas cortos y faciles de hacer y entender.
 - Conclusión 3: Como ultima conclusion puedo decir que el entender el uso de pilas y colas nos pueden dar una vivibilidad distintas a problemas que nos enfrentemos de ahora en adelante.
 
